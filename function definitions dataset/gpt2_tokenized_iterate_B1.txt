@@ -1,0 +1,2000 @@
+def iterate(aa):
+	
+def iterate(ab):
+	
+def iterate(ac):
+	
+def iterate(ad):
+	
+def iterate(ae):
+	
+def iterate(af):
+	
+def iterate(ag):
+	
+def iterate(ah):
+	
+def iterate(ai):
+	
+def iterate(aj):
+	
+def iterate(ak):
+	
+def iterate(al):
+	
+def iterate(am):
+	
+def iterate(an):
+	
+def iterate(ao):
+	
+def iterate(ap):
+	
+def iterate(aq):
+	
+def iterate(ar):
+	
+def iterate(as):
+	
+def iterate(at):
+	
+def iterate(au):
+	
+def iterate(av):
+	
+def iterate(aw):
+	
+def iterate(ax):
+	
+def iterate(ay):
+	
+def iterate(az):
+	
+def iterate(ba):
+	
+def iterate(bb):
+	
+def iterate(bc):
+	
+def iterate(bd):
+	
+def iterate(be):
+	
+def iterate(bf):
+	
+def iterate(bg):
+	
+def iterate(bh):
+	
+def iterate(bi):
+	
+def iterate(bj):
+	
+def iterate(bl):
+	
+def iterate(bm):
+	
+def iterate(bn):
+	
+def iterate(bo):
+	
+def iterate(bp):
+	
+def iterate(br):
+	
+def iterate(bs):
+	
+def iterate(bt):
+	
+def iterate(bu):
+	
+def iterate(by):
+	
+def iterate(ca):
+	
+def iterate(cb):
+	
+def iterate(cc):
+	
+def iterate(cd):
+	
+def iterate(ce):
+	
+def iterate(cf):
+	
+def iterate(ch):
+	
+def iterate(ci):
+	
+def iterate(ck):
+	
+def iterate(cl):
+	
+def iterate(cm):
+	
+def iterate(cn):
+	
+def iterate(co):
+	
+def iterate(cp):
+	
+def iterate(cr):
+	
+def iterate(cs):
+	
+def iterate(ct):
+	
+def iterate(cu):
+	
+def iterate(cv):
+	
+def iterate(cy):
+	
+def iterate(cz):
+	
+def iterate(da):
+	
+def iterate(db):
+	
+def iterate(dc):
+	
+def iterate(dd):
+	
+def iterate(de):
+	
+def iterate(df):
+	
+def iterate(dh):
+	
+def iterate(di):
+	
+def iterate(dj):
+	
+def iterate(dk):
+	
+def iterate(dl):
+	
+def iterate(dm):
+	
+def iterate(dn):
+	
+def iterate(do):
+	
+def iterate(dp):
+	
+def iterate(dq):
+	
+def iterate(dr):
+	
+def iterate(ds):
+	
+def iterate(dt):
+	
+def iterate(du):
+	
+def iterate(dx):
+	
+def iterate(dy):
+	
+def iterate(ea):
+	
+def iterate(eb):
+	
+def iterate(ec):
+	
+def iterate(ed):
+	
+def iterate(ee):
+	
+def iterate(ef):
+	
+def iterate(eg):
+	
+def iterate(eh):
+	
+def iterate(ei):
+	
+def iterate(ek):
+	
+def iterate(el):
+	
+def iterate(em):
+	
+def iterate(en):
+	
+def iterate(ep):
+	
+def iterate(eq):
+	
+def iterate(er):
+	
+def iterate(es):
+	
+def iterate(et):
+	
+def iterate(eu):
+	
+def iterate(ev):
+	
+def iterate(ew):
+	
+def iterate(ex):
+	
+def iterate(ey):
+	
+def iterate(ez):
+	
+def iterate(fa):
+	
+def iterate(fb):
+	
+def iterate(fc):
+	
+def iterate(fd):
+	
+def iterate(fe):
+	
+def iterate(ff):
+	
+def iterate(fg):
+	
+def iterate(fi):
+	
+def iterate(fl):
+	
+def iterate(fm):
+	
+def iterate(fn):
+	
+def iterate(fo):
+	
+def iterate(fp):
+	
+def iterate(fr):
+	
+def iterate(fs):
+	
+def iterate(ft):
+	
+def iterate(fu):
+	
+def iterate(fw):
+	
+def iterate(fx):
+	
+def iterate(fy):
+	
+def iterate(ga):
+	
+def iterate(gb):
+	
+def iterate(gc):
+	
+def iterate(gd):
+	
+def iterate(ge):
+	
+def iterate(gg):
+	
+def iterate(gh):
+	
+def iterate(gi):
+	
+def iterate(gl):
+	
+def iterate(gm):
+	
+def iterate(gn):
+	
+def iterate(go):
+	
+def iterate(gp):
+	
+def iterate(gr):
+	
+def iterate(gs):
+	
+def iterate(gt):
+	
+def iterate(gu):
+	
+def iterate(gy):
+	
+def iterate(gz):
+	
+def iterate(ha):
+	
+def iterate(hd):
+	
+def iterate(he):
+	
+def iterate(hh):
+	
+def iterate(hi):
+	
+def iterate(hl):
+	
+def iterate(hm):
+	
+def iterate(hn):
+	
+def iterate(ho):
+	
+def iterate(hp):
+	
+def iterate(hr):
+	
+def iterate(hs):
+	
+def iterate(ht):
+	
+def iterate(hu):
+	
+def iterate(hw):
+	
+def iterate(hy):
+	
+def iterate(hz):
+	
+def iterate(ia):
+	
+def iterate(ib):
+	
+def iterate(ic):
+	
+def iterate(id):
+	
+def iterate(ie):
+	
+def iterate(if):
+	
+def iterate(ig):
+	
+def iterate(ih):
+	
+def iterate(ii):
+	
+def iterate(ij):
+	
+def iterate(ik):
+	
+def iterate(il):
+	
+def iterate(im):
+	
+def iterate(in):
+	
+def iterate(io):
+	
+def iterate(ip):
+	
+def iterate(iq):
+	
+def iterate(ir):
+	
+def iterate(is):
+	
+def iterate(it):
+	
+def iterate(iu):
+	
+def iterate(iv):
+	
+def iterate(iw):
+	
+def iterate(ix):
+	
+def iterate(iy):
+	
+def iterate(iz):
+	
+def iterate(ja):
+	
+def iterate(jc):
+	
+def iterate(je):
+	
+def iterate(ji):
+	
+def iterate(jj):
+	
+def iterate(jl):
+	
+def iterate(jo):
+	
+def iterate(jp):
+	
+def iterate(js):
+	
+def iterate(ju):
+	
+def iterate(ka):
+	
+def iterate(kb):
+	
+def iterate(ke):
+	
+def iterate(kg):
+	
+def iterate(kh):
+	
+def iterate(ki):
+	
+def iterate(kj):
+	
+def iterate(kk):
+	
+def iterate(kl):
+	
+def iterate(km):
+	
+def iterate(kn):
+	
+def iterate(ko):
+	
+def iterate(kr):
+	
+def iterate(ks):
+	
+def iterate(kt):
+	
+def iterate(ku):
+	
+def iterate(kw):
+	
+def iterate(ky):
+	
+def iterate(la):
+	
+def iterate(lb):
+	
+def iterate(lc):
+	
+def iterate(ld):
+	
+def iterate(le):
+	
+def iterate(lf):
+	
+def iterate(li):
+	
+def iterate(ll):
+	
+def iterate(ln):
+	
+def iterate(lo):
+	
+def iterate(lp):
+	
+def iterate(lr):
+	
+def iterate(ls):
+	
+def iterate(lt):
+	
+def iterate(lu):
+	
+def iterate(lv):
+	
+def iterate(ly):
+	
+def iterate(ma):
+	
+def iterate(mb):
+	
+def iterate(mc):
+	
+def iterate(md):
+	
+def iterate(me):
+	
+def iterate(mg):
+	
+def iterate(mi):
+	
+def iterate(mk):
+	
+def iterate(ml):
+	
+def iterate(mm):
+	
+def iterate(mn):
+	
+def iterate(mo):
+	
+def iterate(mp):
+	
+def iterate(mr):
+	
+def iterate(ms):
+	
+def iterate(mt):
+	
+def iterate(mu):
+	
+def iterate(mx):
+	
+def iterate(my):
+	
+def iterate(na):
+	
+def iterate(nb):
+	
+def iterate(nc):
+	
+def iterate(nd):
+	
+def iterate(ne):
+	
+def iterate(ng):
+	
+def iterate(ni):
+	
+def iterate(nl):
+	
+def iterate(nm):
+	
+def iterate(nn):
+	
+def iterate(no):
+	
+def iterate(np):
+	
+def iterate(nr):
+	
+def iterate(ns):
+	
+def iterate(nt):
+	
+def iterate(nu):
+	
+def iterate(nv):
+	
+def iterate(nw):
+	
+def iterate(ny):
+	
+def iterate(nz):
+	
+def iterate(oa):
+	
+def iterate(ob):
+	
+def iterate(oc):
+	
+def iterate(od):
+	
+def iterate(oe):
+	
+def iterate(of):
+	
+def iterate(og):
+	
+def iterate(oh):
+	
+def iterate(oi):
+	
+def iterate(oj):
+	
+def iterate(ok):
+	
+def iterate(ol):
+	
+def iterate(om):
+	
+def iterate(on):
+	
+def iterate(oo):
+	
+def iterate(op):
+	
+def iterate(or):
+	
+def iterate(os):
+	
+def iterate(ot):
+	
+def iterate(ou):
+	
+def iterate(ov):
+	
+def iterate(ow):
+	
+def iterate(ox):
+	
+def iterate(oy):
+	
+def iterate(oz):
+	
+def iterate(pa):
+	
+def iterate(pb):
+	
+def iterate(pc):
+	
+def iterate(pd):
+	
+def iterate(pe):
+	
+def iterate(pg):
+	
+def iterate(ph):
+	
+def iterate(pi):
+	
+def iterate(pl):
+	
+def iterate(pm):
+	
+def iterate(pn):
+	
+def iterate(po):
+	
+def iterate(pp):
+	
+def iterate(pr):
+	
+def iterate(ps):
+	
+def iterate(pt):
+	
+def iterate(pu):
+	
+def iterate(px):
+	
+def iterate(py):
+	
+def iterate(qa):
+	
+def iterate(qi):
+	
+def iterate(ql):
+	
+def iterate(qq):
+	
+def iterate(qs):
+	
+def iterate(qt):
+	
+def iterate(qu):
+	
+def iterate(qv):
+	
+def iterate(ra):
+	
+def iterate(rb):
+	
+def iterate(rc):
+	
+def iterate(rd):
+	
+def iterate(re):
+	
+def iterate(rf):
+	
+def iterate(rg):
+	
+def iterate(rh):
+	
+def iterate(ri):
+	
+def iterate(rl):
+	
+def iterate(rm):
+	
+def iterate(rn):
+	
+def iterate(ro):
+	
+def iterate(rr):
+	
+def iterate(rs):
+	
+def iterate(rt):
+	
+def iterate(ru):
+	
+def iterate(rw):
+	
+def iterate(rx):
+	
+def iterate(ry):
+	
+def iterate(sa):
+	
+def iterate(sb):
+	
+def iterate(sc):
+	
+def iterate(sd):
+	
+def iterate(se):
+	
+def iterate(sf):
+	
+def iterate(sg):
+	
+def iterate(sh):
+	
+def iterate(si):
+	
+def iterate(sk):
+	
+def iterate(sl):
+	
+def iterate(sm):
+	
+def iterate(sn):
+	
+def iterate(so):
+	
+def iterate(sp):
+	
+def iterate(sq):
+	
+def iterate(sr):
+	
+def iterate(ss):
+	
+def iterate(st):
+	
+def iterate(su):
+	
+def iterate(sv):
+	
+def iterate(sw):
+	
+def iterate(sy):
+	
+def iterate(ta):
+	
+def iterate(tc):
+	
+def iterate(td):
+	
+def iterate(te):
+	
+def iterate(tf):
+	
+def iterate(tg):
+	
+def iterate(th):
+	
+def iterate(ti):
+	
+def iterate(tk):
+	
+def iterate(tl):
+	
+def iterate(tm):
+	
+def iterate(tn):
+	
+def iterate(to):
+	
+def iterate(tp):
+	
+def iterate(tr):
+	
+def iterate(ts):
+	
+def iterate(tt):
+	
+def iterate(tu):
+	
+def iterate(tv):
+	
+def iterate(tw):
+	
+def iterate(tx):
+	
+def iterate(ty):
+	
+def iterate(tz):
+	
+def iterate(ua):
+	
+def iterate(ub):
+	
+def iterate(uc):
+	
+def iterate(ud):
+	
+def iterate(ue):
+	
+def iterate(uf):
+	
+def iterate(ug):
+	
+def iterate(uh):
+	
+def iterate(ui):
+	
+def iterate(uj):
+	
+def iterate(uk):
+	
+def iterate(ul):
+	
+def iterate(um):
+	
+def iterate(un):
+	
+def iterate(uo):
+	
+def iterate(up):
+	
+def iterate(ur):
+	
+def iterate(us):
+	
+def iterate(ut):
+	
+def iterate(uu):
+	
+def iterate(uv):
+	
+def iterate(ux):
+	
+def iterate(uy):
+	
+def iterate(uz):
+	
+def iterate(va):
+	
+def iterate(vc):
+	
+def iterate(vd):
+	
+def iterate(ve):
+	
+def iterate(vg):
+	
+def iterate(vi):
+	
+def iterate(vl):
+	
+def iterate(vm):
+	
+def iterate(vo):
+	
+def iterate(vp):
+	
+def iterate(vr):
+	
+def iterate(vs):
+	
+def iterate(vt):
+	
+def iterate(vu):
+	
+def iterate(vv):
+	
+def iterate(vy):
+	
+def iterate(wa):
+	
+def iterate(wb):
+	
+def iterate(wd):
+	
+def iterate(we):
+	
+def iterate(wh):
+	
+def iterate(wi):
+	
+def iterate(wk):
+	
+def iterate(wl):
+	
+def iterate(wm):
+	
+def iterate(wn):
+	
+def iterate(wo):
+	
+def iterate(wp):
+	
+def iterate(wr):
+	
+def iterate(ws):
+	
+def iterate(wt):
+	
+def iterate(wu):
+	
+def iterate(ww):
+	
+def iterate(wx):
+	
+def iterate(wy):
+	
+def iterate(xa):
+	
+def iterate(xb):
+	
+def iterate(xc):
+	
+def iterate(xd):
+	
+def iterate(xe):
+	
+def iterate(xf):
+	
+def iterate(xi):
+	
+def iterate(xp):
+	
+def iterate(xs):
+	
+def iterate(xt):
+	
+def iterate(xx):
+	
+def iterate(xy):
+	
+def iterate(ya):
+	
+def iterate(yd):
+	
+def iterate(ye):
+	
+def iterate(yg):
+	
+def iterate(yi):
+	
+def iterate(yk):
+	
+def iterate(yl):
+	
+def iterate(ym):
+	
+def iterate(yn):
+	
+def iterate(yo):
+	
+def iterate(yp):
+	
+def iterate(yr):
+	
+def iterate(ys):
+	
+def iterate(yt):
+	
+def iterate(yu):
+	
+def iterate(yx):
+	
+def iterate(yy):
+	
+def iterate(yz):
+	
+def iterate(za):
+	
+def iterate(zb):
+	
+def iterate(ze):
+	
+def iterate(zh):
+	
+def iterate(zi):
+	
+def iterate(zl):
+	
+def iterate(zn):
+	
+def iterate(zo):
+	
+def iterate(zu):
+	
+def iterate(zx):
+	
+def iterate(zy):
+	
+def iterate(zz):
+	
+def iterate(aaa):
+	
+def iterate(aah):
+	
+def iterate(aan):
+	
+def iterate(aba):
+	
+def iterate(abb):
+	
+def iterate(abc):
+	
+def iterate(abe):
+	
+def iterate(abi):
+	
+def iterate(abl):
+	
+def iterate(abo):
+	
+def iterate(abs):
+	
+def iterate(aby):
+	
+def iterate(aca):
+	
+def iterate(acc):
+	
+def iterate(ace):
+	
+def iterate(ach):
+	
+def iterate(aci):
+	
+def iterate(ack):
+	
+def iterate(acl):
+	
+def iterate(aco):
+	
+def iterate(acs):
+	
+def iterate(act):
+	
+def iterate(acy):
+	
+def iterate(ada):
+	
+def iterate(add):
+	
+def iterate(ade):
+	
+def iterate(adh):
+	
+def iterate(adi):
+	
+def iterate(adj):
+	
+def iterate(ado):
+	
+def iterate(adr):
+	
+def iterate(ads):
+	
+def iterate(adv):
+	
+def iterate(ady):
+	
+def iterate(aea):
+	
+def iterate(aed):
+	
+def iterate(ael):
+	
+def iterate(aer):
+	
+def iterate(aez):
+	
+def iterate(afa):
+	
+def iterate(afe):
+	
+def iterate(aff):
+	
+def iterate(afi):
+	
+def iterate(aft):
+	
+def iterate(aga):
+	
+def iterate(age):
+	
+def iterate(agg):
+	
+def iterate(agh):
+	
+def iterate(agi):
+	
+def iterate(agn):
+	
+def iterate(ago):
+	
+def iterate(ags):
+	
+def iterate(agu):
+	
+def iterate(agy):
+	
+def iterate(aha):
+	
+def iterate(ahi):
+	
+def iterate(ahl):
+	
+def iterate(ahn):
+	
+def iterate(aho):
+	
+def iterate(ahs):
+	
+def iterate(ahu):
+	
+def iterate(aic):
+	
+def iterate(aid):
+	
+def iterate(aii):
+	
+def iterate(ail):
+	
+def iterate(aim):
+	
+def iterate(ain):
+	
+def iterate(air):
+	
+def iterate(ais):
+	
+def iterate(ait):
+	
+def iterate(aja):
+	
+def iterate(aji):
+	
+def iterate(ajo):
+	
+def iterate(aka):
+	
+def iterate(ake):
+	
+def iterate(akh):
+	
+def iterate(aki):
+	
+def iterate(ako):
+	
+def iterate(aks):
+	
+def iterate(aku):
+	
+def iterate(aky):
+	
+def iterate(ala):
+	
+def iterate(ald):
+	
+def iterate(ale):
+	
+def iterate(alf):
+	
+def iterate(alg):
+	
+def iterate(ali):
+	
+def iterate(alk):
+	
+def iterate(all):
+	
+def iterate(alm):
+	
+def iterate(alo):
+	
+def iterate(als):
+	
+def iterate(alt):
+	
+def iterate(aly):
+	
+def iterate(ama):
+	
+def iterate(amb):
+	
+def iterate(amd):
+	
+def iterate(ame):
+	
+def iterate(ami):
+	
+def iterate(aml):
+	
+def iterate(amm):
+	
+def iterate(amn):
+	
+def iterate(amo):
+	
+def iterate(amp):
+	
+def iterate(ams):
+	
+def iterate(amy):
+	
+def iterate(ana):
+	
+def iterate(anc):
+	
+def iterate(and):
+	
+def iterate(ane):
+	
+def iterate(ang):
+	
+def iterate(ani):
+	
+def iterate(ank):
+	
+def iterate(ann):
+	
+def iterate(ano):
+	
+def iterate(ans):
+	
+def iterate(ant):
+	
+def iterate(anu):
+	
+def iterate(any):
+	
+def iterate(anz):
+	
+def iterate(aos):
+	
+def iterate(apa):
+	
+def iterate(ape):
+	
+def iterate(aph):
+	
+def iterate(api):
+	
+def iterate(apo):
+	
+def iterate(app):
+	
+def iterate(aps):
+	
+def iterate(apt):
+	
+def iterate(apy):
+	
+def iterate(aqu):
+	
+def iterate(ara):
+	
+def iterate(arb):
+	
+def iterate(arc):
+	
+def iterate(ard):
+	
+def iterate(are):
+	
+def iterate(arf):
+	
+def iterate(arg):
+	
+def iterate(ari):
+	
+def iterate(ark):
+	
+def iterate(arl):
+	
+def iterate(arm):
+	
+def iterate(arn):
+	
+def iterate(aro):
+	
+def iterate(arp):
+	
+def iterate(arr):
+	
+def iterate(ars):
+	
+def iterate(art):
+	
+def iterate(aru):
+	
+def iterate(ary):
+	
+def iterate(asa):
+	
+def iterate(asc):
+	
+def iterate(ase):
+	
+def iterate(ash):
+	
+def iterate(asi):
+	
+def iterate(ask):
+	
+def iterate(asm):
+	
+def iterate(asp):
+	
+def iterate(ass):
+	
+def iterate(ast):
+	
+def iterate(asu):
+	
+def iterate(asy):
+	
+def iterate(ata):
+	
+def iterate(ate):
+	
+def iterate(ath):
+	
+def iterate(ati):
+	
+def iterate(atl):
+	
+def iterate(ato):
+	
+def iterate(ats):
+	
+def iterate(att):
+	
+def iterate(atu):
+	
+def iterate(atz):
+	
+def iterate(auc):
+	
+def iterate(aud):
+	
+def iterate(aug):
+	
+def iterate(aul):
+	
+def iterate(aum):
+	
+def iterate(aun):
+	
+def iterate(aur):
+	
+def iterate(aus):
+	
+def iterate(aut):
+	
+def iterate(aux):
+	
+def iterate(ava):
+	
+def iterate(ave):
+	
+def iterate(avi):
+	
+def iterate(avy):
+	
+def iterate(awa):
+	
+def iterate(awi):
+	
+def iterate(awk):
+	
+def iterate(awn):
+	
+def iterate(aws):
+	
+def iterate(axe):
+	
+def iterate(axy):
+	
+def iterate(aya):
+	
+def iterate(aye):
+	
+def iterate(ayn):
+	
+def iterate(ays):
+	
+def iterate(aza):
+	
+def iterate(aze):
+	
+def iterate(azi):
+	
+def iterate(azo):
+	
+def iterate(azy):
+	
+def iterate(azz):
+	
+def iterate(bad):
+	
+def iterate(bag):
+	
+def iterate(bah):
+	
+def iterate(bal):
+	
+def iterate(ban):
+	
+def iterate(bar):
+	
+def iterate(bas):
+	
+def iterate(bat):
+	
+def iterate(bay):
+	
+def iterate(bda):
+	
+def iterate(bec):
+	
+def iterate(bed):
+	
+def iterate(bee):
+	
+def iterate(beh):
+	
+def iterate(bek):
+	
+def iterate(bel):
+	
+def iterate(ben):
+	
+def iterate(ber):
+	
+def iterate(bes):
+	
+def iterate(bet):
+	
+def iterate(bey):
+	
+def iterate(bia):
+	
+def iterate(bid):
+	
+def iterate(bie):
+	
+def iterate(big):
+	
+def iterate(bil):
+	
+def iterate(bin):
+	
+def iterate(bis):
+	
+def iterate(bit):
+	
+def iterate(biz):
+	
+def iterate(ble):
+	
+def iterate(bly):
+	
+def iterate(bnb):
+	
+def iterate(boa):
+	
+def iterate(bol):
+	
+def iterate(bon):
+	
+def iterate(bor):
+	
+def iterate(bos):
+	
+def iterate(bot):
+	
+def iterate(bow):
+	
+def iterate(box):
+	
+def iterate(boy):
+	
+def iterate(bps):
+	
+def iterate(bra):
+	
+def iterate(bre):
+	
+def iterate(bro):
+	
+def iterate(bsp):
+	
+def iterate(btn):
+	
+def iterate(bub):
+	
+def iterate(buf):
+	
+def iterate(bug):
+	
+def iterate(bul):
+	
+def iterate(bum):
+	
+def iterate(bur):
+	
+def iterate(bus):
+	
+def iterate(but):
+	
+def iterate(buy):
+	
+def iterate(bye):
+	
+def iterate(byn):
+	
+def iterate(bys):
+	
+def iterate(cal):
+	
+def iterate(cam):
+	
+def iterate(can):
+	
+def iterate(cap):
+	
+def iterate(car):
+	
+def iterate(cas):
+	
+def iterate(cat):
+	
+def iterate(cca):
+	
+def iterate(cci):
+	
+def iterate(cdn):
+	
+def iterate(ced):
+	
+def iterate(cel):
+	
+def iterate(cer):
+	
+def iterate(ces):
+	
+def iterate(cfg):
+	
+def iterate(cgi):
+	
+def iterate(cha):
+	
+def iterate(che):
+	
+def iterate(chi):
+	
+def iterate(chn):
+	
+def iterate(cho):
+	
+def iterate(cht):
+	
+def iterate(chu):
+	
+def iterate(chy):
+	
+def iterate(cia):
+	
+def iterate(cig):
+	
+def iterate(cil):
+	
+def iterate(cin):
+	
+def iterate(cit):
+	
+def iterate(cki):
+	
+def iterate(cko):
+	
+def iterate(cks):
+	
+def iterate(cle):
+	
+def iterate(cli):
+	
+def iterate(cmd):
+	
+def iterate(cmp):
+	
+def iterate(cms):
+	
+def iterate(cod):
+	
+def iterate(coe):
+	
+def iterate(col):
+	
+def iterate(com):
+	
+def iterate(con):
+	
+def iterate(cop):
+	
+def iterate(cor):
+	
+def iterate(cos):
+	
+def iterate(cot):
+	
+def iterate(cow):
+	
+def iterate(cox):
+	
+def iterate(cpp):
+	
+def iterate(cpu):
+	
+def iterate(cre):
+	
+def iterate(cro):
+	
+def iterate(cru):
+	
+def iterate(cry):
+	
+def iterate(css):
+	
+def iterate(csv):
+	
+def iterate(ctl):
+	
+def iterate(ctr):
+	
+def iterate(ctx):
+	
+def iterate(cue):
+	
+def iterate(cul):
+	
+def iterate(cum):
+	
+def iterate(cup):
+	
+def iterate(cur):
+	
+def iterate(cus):
+	
+def iterate(cut):
+	
+def iterate(cyl):
+	
+def iterate(dad):
+	
+def iterate(dal):
+	
+def iterate(dam):
+	
+def iterate(dan):
+	
+def iterate(daq):
+	
+def iterate(dar):
+	
+def iterate(dat):
+	
+def iterate(day):
+	
+def iterate(dds):
+	
+def iterate(deb):
+	
+def iterate(dec):
+	
+def iterate(ded):
+	
+def iterate(def):
+	
+def iterate(deg):
+	
+def iterate(del):
+	
+def iterate(dem):
+	
+def iterate(den):
+	
+def iterate(dep):
+	
+def iterate(der):
+	
+def iterate(des):
+	
+def iterate(det):
+	
+def iterate(dev):
+	
+def iterate(dfx):
+	
+def iterate(did):
+	
+def iterate(die):
+	
+def iterate(dig):
+	
+def iterate(dim):
+	
+def iterate(din):
+	
+def iterate(dir):
+	
+def iterate(dis):
+	
+def iterate(dit):
+	
+def iterate(div):
+	
+def iterate(dll):
+	
+def iterate(doc):
+	
+def iterate(dog):
+	
+def iterate(doi):
+	
+def iterate(dom):
+	
+def iterate(don):
+	
+def iterate(dor):
+	
+def iterate(dos):
+	
+def iterate(dot):
+	
+def iterate(dra):
+	
+def iterate(dri):
+	
+def iterate(drm):
+	
+def iterate(dro):
+	
+def iterate(dry):
+	
+def iterate(duc):
+	
+def iterate(due):
+	
+def iterate(dyl):
+	
+def iterate(ead):
+	
+def iterate(eah):
+	
+def iterate(eal):
+	
+def iterate(ean):
+	
+def iterate(ear):
+	
+def iterate(eas):
+	
+def iterate(eat):
+	
+def iterate(eca):
+	
+def iterate(ecd):
+	
+def iterate(ech):
+	
+def iterate(eco):
+	
+def iterate(ect):
+	
+def iterate(eda):
+	
+def iterate(edd):
+	
+def iterate(ede):
+	
+def iterate(edi):
+	
+def iterate(edo):
+	
+def iterate(eds):
+	
+def iterate(edu):
+	
+def iterate(edy):
+	
+def iterate(eed):
+	
+def iterate(eem):
+	
+def iterate(een):
+	
+def iterate(eer):
+	
+def iterate(ees):
+	
+def iterate(eez):
+	
+def iterate(efe):
+	
+def iterate(eff):
+	
+def iterate(ega):
+	
+def iterate(egg):
+	
+def iterate(egu):
+	
+def iterate(eka):
+	
+def iterate(eki):
+	
+def iterate(eks):
+	
+def iterate(ela):
+	
+def iterate(ele):
+	
+def iterate(elf):
+	
+def iterate(eli):
+	
+def iterate(ell):
+	
+def iterate(eln):
+	
+def iterate(elo):
+	
+def iterate(els):
+	
+def iterate(elt):
+	
+def iterate(ema):
+	
+def iterate(emb):
+	
+def iterate(eme):
+	
+def iterate(emi):
+	
+def iterate(emn):
+	
+def iterate(emo):
+	
+def iterate(emp):
+	
+def iterate(ems):
+	
+def iterate(emy):
+	
+def iterate(ena):
+	
+def iterate(enc):
+	
+def iterate(end):
+	
+def iterate(ene):
+	
+def iterate(enf):
+	
+def iterate(eng):
+	
+def iterate(enh):
+	
+def iterate(eni):
+	
+def iterate(enn):
+	
+def iterate(eno):
+	
+def iterate(ens):
+	
+def iterate(ent):
+	
+def iterate(env):
+	
+def iterate(eny):
+	
+def iterate(enz):
+	
+def iterate(eon):
+	
+def iterate(eor):
+	
+def iterate(eph):
+	
+def iterate(eps):
+	
+def iterate(ept):
+	
+def iterate(equ):
+	
+def iterate(era):
+	
+def iterate(erb):
+	
+def iterate(erc):
+	
+def iterate(erd):
+	
+def iterate(ere):
+	
+def iterate(erg):
+	
+def iterate(eri):
+	
+def iterate(erk):
+	
+def iterate(erm):
+	
+def iterate(ern):
+	
+def iterate(ero):
+	
+def iterate(err):
+	
+def iterate(ers):
+	
+def iterate(ert):
+	
+def iterate(erv):
+	
+def iterate(ery):
+	
+def iterate(esa):
+	
+def iterate(esc):
+	
+def iterate(ese):
+	
+def iterate(esh):
+	
+def iterate(esi):
+	
+def iterate(esm):
+	
+def iterate(esp):
+	
+def iterate(ess):
+	
+def iterate(est):
+	
+def iterate(esy):
+	
+def iterate(eta):
+	
+def iterate(etc):
+	
+def iterate(ete):
+	
+def iterate(eth):
+	
+def iterate(eto):
+	
+def iterate(etr):
+	
+def iterate(ets):
+	
+def iterate(ett):
+	
+def iterate(ety):
+	
+def iterate(etz):
+	
+def iterate(eur):
+	
+def iterate(eus):
+	
+def iterate(eva):
+	
+def iterate(eve):
+	
+def iterate(ews):
+	
+def iterate(exc):
+	
+def iterate(exe):
+	
+def iterate(exp):
+	
+def iterate(ext):
+	
+def iterate(eye):
+	
+def iterate(fab):
+	
+def iterate(fac):
+	
+def iterate(fal):
+	
+def iterate(fam):
+	
