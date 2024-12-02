@@ -12,7 +12,7 @@ def token_count(text):
 # Generate potential values for A and B
 characters = "abcdefghijklmnopqrstuvwxyz"
 
-# Create lists to store 1000 valid values for A and B
+# Create lists to store valid values for A and B
 valid_As = []
 valid_Bs = []
 
@@ -22,10 +22,6 @@ for i in range(2, 6):  # Try lengths from 2 to 5 characters
         A_candidate = "".join(combo)
         if token_count(A_candidate) == 2:
             valid_As.append(A_candidate)
-        if len(valid_As) >= 1000:
-            break
-    if len(valid_As) >= 1000:
-        break
 
 # Generate values for B (exactly 1 token)
 for i in range(2, 4):  # Try lengths from 2 to 3 characters
@@ -33,21 +29,21 @@ for i in range(2, 4):  # Try lengths from 2 to 3 characters
         B_candidate = "".join(combo)
         if token_count(B_candidate) == 1:
             valid_Bs.append(B_candidate)
-        if len(valid_Bs) >= 1000:
-            break
-    if len(valid_Bs) >= 1000:
-        break
 
-# Generate function definitions by pairing A and B
+# Generate function definitions with a total of 8 tokens
 samples = []
-for i in range(1000):
-    A = random.choice(valid_As)
-    B = random.choice(valid_Bs)
-    samples.append(f'def {A}({B}):\n\t')
+for _ in range(1000):  # Generate 1000 samples
+    while True:
+        A = random.choice(valid_As)
+        B = random.choice(valid_Bs)
+        full_string = f"def {A}({B}):\n\t"
+        if token_count(full_string) == 8:
+            samples.append(full_string)
+            break
 
 # Write all samples to a file
-with open("function_definitions.txt", "w") as file:
+with open("function_definitions_8_tokens.txt", "w") as file:
     for sample in samples:
         file.write(sample + "\n")
 
-print("1000 function definitions written to function_definitions.txt")
+print("1000 function definitions written to function_definitions_8_tokens.txt")
